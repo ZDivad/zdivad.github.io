@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! This site is still under construction. Come back Later.
+Hello there! This site is still under construction. Stay tuned and come back Later.
 
 ## Short self-intro
 
