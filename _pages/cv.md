@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here (Last update: May. 2024)](/files/CV_ZHOUJunda.pdf)
+[Download CV here (Last update: May. 2024)](https://zdivad.github.io/files/CV_ZHOUJunda.pdf)
