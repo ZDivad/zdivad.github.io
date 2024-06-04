@@ -21,7 +21,7 @@ repository               : "ZDivad/zdivad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "A_photo_of_me_3.jpg.jpg" 
+  avatar           : "A_photo_of_me_3.jpg" 
   name             : "ZHOU, Junda 周君达"
   pronouns         : # example: "she/her"  
   bio              : "" # TO-DO
