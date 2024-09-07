@@ -30,7 +30,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        {{ title }}
+        { title }
         <!--<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>-->
       {% endif %}
     </h2>
@@ -64,7 +64,7 @@
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">View Paper</a></p>
     {% elsif post.arxivurl %}
-      <p>Download <a href="{{ post.arxivurl }}">View arXiv</a></p>
+      <p><a href="{{ post.arxivurl }}">View arXiv</a></p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
