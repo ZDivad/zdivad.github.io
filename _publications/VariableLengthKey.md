@@ -2,12 +2,12 @@
 title: "Variable-Length Secret Key Agreement via Random Stopping Time"
 collection: publications
 # permalink: /publication/VariableLengthKey
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'ISIT 2024'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024
+venue: 'IEEE ISIT 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 Proceeding version: 'https://ieeexplore.ieee.org/document/10619602'
-Axiv version: 'https://arxiv.org/abs/2405.07493'
+Arxiv version: 'https://arxiv.org/abs/2405.07493'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
