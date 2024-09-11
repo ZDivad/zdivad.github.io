@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## Short self-intro
 Hi, I am ZHOU, Junda (David)! I am a PhD student at the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/), the Chinese University of Hong Kong (CUHK). I am a HKPFS awardee and am now aupervised by [Prof. Pascal O. VONTOBEL](https://sites.google.com/site/pascalvontobel/). Before that, I obtained my Bachelor of Science degree with First Class Honor at CUHK and majored in [Mathematics and Information Engineering](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/).
 
-Download CV [here](https://zdivad.github.io/files/CV_ZHOUJunda.pdf) (Last update: May 2024)
+Download my CV [here](https://zdivad.github.io/files/CV_ZHOUJunda.pdf) (Last update: May 2024)
 
 ## Researsh Interests
+
+My current reasearch interest is on quantum information processing, with a focus on applying graphical models to describe and analyse quantum information systems. I am also intetrested in quantum computation and quantum error correction codes.
 
 ## Research Experiences
