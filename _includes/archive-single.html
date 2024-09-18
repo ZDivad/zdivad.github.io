@@ -30,7 +30,7 @@
         {{ title }}
     </h3>
     
-    <p>{{post.authors}}</p><i>{{ post.venue }}</i>
+    <p>{{post.authors}}, <i>{{ post.venue }}</i></p>
     
     {% if post.paperurl and post.arxivurl %}
       <p><a href=" {{ post.paperurl }} ">View Paper</a> | <a href="{{ post.arxivurl }}">View arXiv</a></p>
