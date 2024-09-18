@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am ZHOU, Junda (David)! I am a PhD student at the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/), the Chinese University of Hong Kong (CUHK). I am a HKPFS awardee and am now aupervised by [Prof. Pascal O. VONTOBEL](https://sites.google.com/site/pascalvontobel/). Before that, I obtained my Bachelor of Science degree with First Class Honor at CUHK and majored in [Mathematics and Information Engineering](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/).
+Hi, I am ZHOU, Junda (David)! I am a PhD student at the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/), the Chinese University of Hong Kong (CUHK). I am a HKPFS awardee and am now supervised by [Prof. Pascal O. VONTOBEL](https://sites.google.com/site/pascalvontobel/). Before that, I obtained my Bachelor of Science degree in [Mathematics and Information Engineering](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/), with First Class Honours, from CUHK.
 
 Download my CV [here](https://zdivad.github.io/files/CV_ZHOUJunda.pdf) (Last update: May 2024)
 
