@@ -3,7 +3,7 @@ title: "Complex-Valued-Matrix Permanents: SPA-based Approximations and Double-Co
 collection: publications
 category: preprints
 excerpt: ''
-authors: 'Junda ZHOU and Pascal O. Vontobel'
+authors: 'Junda ZHOU and Pascal O. VONTOBEL'
 date: 2026-01-01
 # venue: 'IEEE ISIT 2024'
 
