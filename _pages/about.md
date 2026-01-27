@@ -11,8 +11,8 @@ Hi, I am ZHOU, Junda (David)! I am a PhD student at the [Department of Informati
 
 Download my CV [here](https://zdivad.github.io/files/CV_ZHOUJunda.pdf) (Last update: May 2024)
 
-## Researsh Interests
+## Research Interests
 
-My current reasearch interest is on quantum information processing, with a focus on applying graphical models to describe and analyse quantum information systems. I am also intetrested in quantum computation and quantum error correction codes.
+My current research interest is on quantum information processing, with a focus on applying graphical models to describe and analyze quantum information systems. I am also interested in quantum computation and quantum error correction codes.
 
 ## Research Experiences
