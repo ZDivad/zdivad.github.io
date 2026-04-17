@@ -13,6 +13,6 @@ Download my CV [here](https://zdivad.github.io/files/CV_ZHOUJunda.pdf) (Last upd
 
 ## Research Interests
 
-My current research interest is on quantum information processing, with a focus on applying graphical models to describe and analyze quantum information systems. I am also interested in quantum computation and quantum error correction codes.
+My current research interest is in quantum information processing, with a focus on applying graphical models to describe and analyze quantum information systems. I am also interested in quantum computation and quantum error correction codes.
 
 ## Research Experiences
